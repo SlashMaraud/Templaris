@@ -127,22 +127,22 @@
  {
   "name": "M. Liga de Campeones [1080] 2",
   "title": "Movistar Liga de Campeones",
-  "id": "91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920"
+  "id": "67b80f6ae61f33ef780fed1feba6cc914e57ce96"
  },
  {
   "name": "M. Liga de Campeones [1080] 3",
   "title": "Movistar Liga de Campeones",
-  "id": "91af434b0bb521189286f8cbbab1aed39d7536fe"
+  "id": "ab230c6aded2f51935ac720d205e426a43d50989"
  },
  {
   "name": "M. Liga de Campeones [1080] 4",
   "title": "Movistar Liga de Campeones",
-  "id": "63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439"
+  "id": "5e6173b43eae5c16e65c411bd6f2006e7dd7744e"
  },
  {
   "name": "M. Liga de Campeones [720] 5",
   "title": "Movistar Liga de Campeones",
-  "id": "e572a5178ff72eed7d1d751a18b4b3419699f370"
+  "id": "160e657985e1bb04ce216e8d180580f96df553bb"
  },
  {
   "name": "M. Liga de Campeones 2 [720] 1",
@@ -235,6 +235,11 @@
   "id": "d65257bb934b73647374224fd62d836815804be2"
  },
  {
+  "name": "DAZN F1 [1080] (2)",
+  "title": "DAZN F1",
+  "id": "83546ce8634122c7431e46eac761976cd7b26f52"
+ },
+ {
   "name": "DAZN F1 [1080] (3)",
   "title": "DAZN F1",
   "id": "d65257bb934b73647374224fd62d836815804be2"
@@ -242,7 +247,7 @@
  {
   "name": "DAZN F1 [1080] (4)",
   "title": "DAZN F1",
-  "id": "6d325cda6ed591647ef5e91edd043147bce8be30"
+  "id": "bde2ac5ffed80b519662cc740b173999d831f44c"
  },
  {
   "name": "EuroSport 1 [1080] 1",
@@ -257,22 +262,22 @@
  {
   "name": "M #Vamos [1080] 1",
   "title": "Movistar #Vamos",
-  "id": "08d26b5d9bf456ae21e968f0f85375925ff510e3"
+  "id": "9cecca3c855cf7d2e000264e5c26caafaf21c9a2"
  },
  {
   "name": "M #Vamos [1080] 2",
   "title": "Movistar #Vamos",
-  "id": "8ac2ad3d86aee7bd9ae0f6c7a7962aa85299d523"
+  "id": "ae7d5dd1190e6eb5fef0b5f03d0b60e2f9b8f16b"
  },
  {
   "name": "M #Vamos 1080 3",
   "title": "Movistar #Vamos",
-  "id": "1df7ce7d3912f2bff730f14df8beaeb2d73c49b4"
+  "id": "87489dce3f983980fd2e9c3ea418ad164710004d"
  },
  {
   "name": "M #Vamos N2 1",
   "title": "Movistar #Vamos N2",
-  "id": "837883625d40e1eb5566eefaf74811046491f53a"
+  "id": "f75efb1ab987e9b207daccb9a3d49efa056bdd95"
  },
  {
   "name": "M #Vamos N2 2",
